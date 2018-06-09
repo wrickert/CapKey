@@ -1,0 +1,1 @@
+I was inspired by HackaDay's Belgrade badge. I wanted to make something like it however I thought the cost and assembly of all those buggons would be a bit much. So I want to abuse a touchpad's capacitive touch controller to make a keyboard. This should be fun.
